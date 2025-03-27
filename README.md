@@ -1,2 +1,5 @@
-# rz-gateway-sample
-This repository consists of various patches for the RZ/G3S platform to allow AWS IoT Greengrass to be built on top of the Verified Linux Package (VLP) and a python sample script that will send temperature and humidity from a PMOD sensor to the cloud.
+# RZ/G3S Gateway Solution & Sample #
+The sol directory contains all the patches that will allow AWS IoT Greengrass to be built on top of the Verified Linux Package and enable i2C data reads from PMOD sensors.
+In addition to the patches, a python sample script that will send sensors data from the RZ/G3S EVK board to AWS Cloud is provided
+To build the Linux environment and run the sample application please follow the instructions from the following Getting Started Guide:
+URL: **https://confluence.renesas.com/display/REN/RZ+Gateway+Solution+-+Getting+Started** \
