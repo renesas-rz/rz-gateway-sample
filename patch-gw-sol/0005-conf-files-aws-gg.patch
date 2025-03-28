@@ -1,3 +1,5 @@
+Modify configuration files to add meta-aws and smbus2
+---
 diff --git a/meta-rzg3s/docs/template/conf/bblayers.conf.sample b/meta-rzg3s/docs/template/conf/bblayers.conf.sample
 --- a/meta-rzg3s/docs/template/conf/bblayers.conf.sample
 +++ b/meta-rzg3s/docs/template/conf/bblayers.conf.sample
