@@ -1,3 +1,5 @@
+Fixes AWS IoT Greengrass related recipes for Linux build
+---
 diff --git a/recipes-devtools/amazon-corretto/corretto-11-bin_11.0.23.9.1.bb b/recipes-devtools/amazon-corretto/corretto-11-bin_11.0.23.9.1.bb
 index 8d78f13a..44658f7b 100644
 --- a/recipes-devtools/amazon-corretto/corretto-11-bin_11.0.23.9.1.bb
