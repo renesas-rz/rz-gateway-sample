@@ -1,3 +1,5 @@
+Includes AWS IoT Greengrass related software to the RZ Linux build
+---
 diff --git a/meta-rz-common/include/core-image-bsp.inc b/meta-rz-common/include/core-image-bsp.inc
 --- a/meta-rz-common/include/core-image-bsp.inc
 +++ b/meta-rz-common/include/core-image-bsp.inc
