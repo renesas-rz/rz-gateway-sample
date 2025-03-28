@@ -1,3 +1,5 @@
+Kernel configuration change to enable AWS Greengrass support
+---
 diff --git a/meta-rzg3s/recipes-kernel/linux/linux-renesas/aws-iot.cfg b/meta-rzg3s/recipes-kernel/linux/linux-renesas/aws-iot.cfg
 --- a/meta-rzg3s/recipes-kernel/linux/linux-renesas/aws-iot.cfg
 +++ b/meta-rzg3s/recipes-kernel/linux/linux-renesas/aws-iot.cfg
